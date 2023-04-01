@@ -1,0 +1,6 @@
+description: This component uses the Google Custom Search API to search for the provided
+  query related to ChatGPT jailbreaks and parses the top 10 website URLs. It sends
+  the API request with the search query, retrieves the search results, and extracts
+  the URLs from the top 10 results.
+name: GoogleSearchParser
+parameters: {}
