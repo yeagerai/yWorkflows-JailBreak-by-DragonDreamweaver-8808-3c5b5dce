@@ -2,5 +2,7 @@ description: This component handles the search and rating of ChatGPT Jailbreaks.
   takes a search query related to ChatGPT jailbreaks and returns a list of dictionaries
   containing the parsed and rated ChatGPT Jailbreaks, with information like prompt,
   URL, and jailbreak rating.
+input-class: JailBreakIn
 name: JailBreak
+output-class: JailBreakOut
 parameters: {}
